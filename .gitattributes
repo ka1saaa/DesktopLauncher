@@ -1,0 +1,10 @@
+# 统一按文本处理，仓库内保存 LF，检出时按平台转换
+* text=auto
+
+*.cs text
+*.xaml text
+*.csproj text
+*.manifest text
+*.md text
+*.json text
+*.yml text

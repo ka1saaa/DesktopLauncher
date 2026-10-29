@@ -1,0 +1,13 @@
+# 构建产物
+bin/
+obj/
+publish/
+*.pdb
+*.user
+*.suo
+.vs/
+
+# 测试与系统文件
+TestResults/
+Thumbs.db
+desktop.ini
